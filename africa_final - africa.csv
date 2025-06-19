@@ -1,0 +1,521 @@
+Year;Value;Unit;Flag;Country;Item;Domain;Metric;YoY Change
+1961;1000000;tonnes;Estimated;Algeria;Wheat;Production;Production;
+1961;1000000;tonnes;Estimated;Morocco;Wheat;Production;Production;
+1961;1000000;tonnes;Estimated;Ghana;Wheat;Production;Production;
+1961;1000000;tonnes;Estimated;Ethiopia;Wheat;Production;Production;
+1961;1000000;tonnes;Estimated;Kenya;Wheat;Production;Production;
+1961;1000000;tonnes;Estimated;Egypt;Wheat;Production;Production;
+1961;1000000;tonnes;Estimated;South Africa;Wheat;Production;Production;
+1961;1000000;tonnes;Estimated;Nigeria;Wheat;Production;Production;
+1962;1020000;tonnes;Official;Algeria;Wheat;Production;Production;2
+1962;1020000;tonnes;Official;Morocco;Wheat;Production;Production;2
+1962;1020000;tonnes;Official;Ghana;Wheat;Production;Production;2
+1962;1020000;tonnes;Official;Ethiopia;Wheat;Production;Production;2
+1962;1020000;tonnes;Official;Kenya;Wheat;Production;Production;2
+1962;1020000;tonnes;Official;Egypt;Wheat;Production;Production;2
+1962;1020000;tonnes;Official;South Africa;Wheat;Production;Production;2
+1962;1020000;tonnes;Official;Nigeria;Wheat;Production;Production;2
+1963;1040000;tonnes;Estimated;Algeria;Wheat;Production;Production;1.960784314
+1963;1040000;tonnes;Estimated;Morocco;Wheat;Production;Production;1.960784314
+1963;1040000;tonnes;Estimated;Ghana;Wheat;Production;Production;1.960784314
+1963;1040000;tonnes;Estimated;Ethiopia;Wheat;Production;Production;1.960784314
+1963;1040000;tonnes;Estimated;Kenya;Wheat;Production;Production;1.960784314
+1963;1040000;tonnes;Estimated;Egypt;Wheat;Production;Production;1.960784314
+1963;1040000;tonnes;Estimated;South Africa;Wheat;Production;Production;1.960784314
+1963;1040000;tonnes;Estimated;Nigeria;Wheat;Production;Production;1.960784314
+1964;1060000;tonnes;Official;Algeria;Wheat;Production;Production;1.923076923
+1964;1060000;tonnes;Official;Morocco;Wheat;Production;Production;1.923076923
+1964;1060000;tonnes;Official;Ghana;Wheat;Production;Production;1.923076923
+1964;1060000;tonnes;Official;Ethiopia;Wheat;Production;Production;1.923076923
+1964;1060000;tonnes;Official;Kenya;Wheat;Production;Production;1.923076923
+1964;1060000;tonnes;Official;Egypt;Wheat;Production;Production;1.923076923
+1964;1060000;tonnes;Official;South Africa;Wheat;Production;Production;1.923076923
+1964;1060000;tonnes;Official;Nigeria;Wheat;Production;Production;1.923076923
+1965;1080000;tonnes;Estimated;Algeria;Wheat;Production;Production;1.886792453
+1965;1080000;tonnes;Estimated;Morocco;Wheat;Production;Production;1.886792453
+1965;1080000;tonnes;Estimated;Ghana;Wheat;Production;Production;1.886792453
+1965;1080000;tonnes;Estimated;Ethiopia;Wheat;Production;Production;1.886792453
+1965;1080000;tonnes;Estimated;Kenya;Wheat;Production;Production;1.886792453
+1965;1080000;tonnes;Estimated;Egypt;Wheat;Production;Production;1.886792453
+1965;1080000;tonnes;Estimated;South Africa;Wheat;Production;Production;1.886792453
+1965;1080000;tonnes;Estimated;Nigeria;Wheat;Production;Production;1.886792453
+1966;1100000;tonnes;Official;Algeria;Wheat;Production;Production;1.851851852
+1966;1100000;tonnes;Official;Morocco;Wheat;Production;Production;1.851851852
+1966;1100000;tonnes;Official;Ghana;Wheat;Production;Production;1.851851852
+1966;1100000;tonnes;Official;Ethiopia;Wheat;Production;Production;1.851851852
+1966;1100000;tonnes;Official;Kenya;Wheat;Production;Production;1.851851852
+1966;1100000;tonnes;Official;Egypt;Wheat;Production;Production;1.851851852
+1966;1100000;tonnes;Official;South Africa;Wheat;Production;Production;1.851851852
+1966;1100000;tonnes;Official;Nigeria;Wheat;Production;Production;1.851851852
+1967;1120000;tonnes;Estimated;Algeria;Wheat;Production;Production;1.818181818
+1967;1120000;tonnes;Estimated;Morocco;Wheat;Production;Production;1.818181818
+1967;1120000;tonnes;Estimated;Ghana;Wheat;Production;Production;1.818181818
+1967;1120000;tonnes;Estimated;Ethiopia;Wheat;Production;Production;1.818181818
+1967;1120000;tonnes;Estimated;Kenya;Wheat;Production;Production;1.818181818
+1967;1120000;tonnes;Estimated;Egypt;Wheat;Production;Production;1.818181818
+1967;1120000;tonnes;Estimated;South Africa;Wheat;Production;Production;1.818181818
+1967;1120000;tonnes;Estimated;Nigeria;Wheat;Production;Production;1.818181818
+1968;1140000;tonnes;Official;Algeria;Wheat;Production;Production;1.785714286
+1968;1140000;tonnes;Official;Morocco;Wheat;Production;Production;1.785714286
+1968;1140000;tonnes;Official;Ghana;Wheat;Production;Production;1.785714286
+1968;1140000;tonnes;Official;Ethiopia;Wheat;Production;Production;1.785714286
+1968;1140000;tonnes;Official;Kenya;Wheat;Production;Production;1.785714286
+1968;1140000;tonnes;Official;Egypt;Wheat;Production;Production;1.785714286
+1968;1140000;tonnes;Official;South Africa;Wheat;Production;Production;1.785714286
+1968;1140000;tonnes;Official;Nigeria;Wheat;Production;Production;1.785714286
+1969;1160000;tonnes;Estimated;Algeria;Wheat;Production;Production;1.754385965
+1969;1160000;tonnes;Estimated;Morocco;Wheat;Production;Production;1.754385965
+1969;1160000;tonnes;Estimated;Ghana;Wheat;Production;Production;1.754385965
+1969;1160000;tonnes;Estimated;Ethiopia;Wheat;Production;Production;1.754385965
+1969;1160000;tonnes;Estimated;Kenya;Wheat;Production;Production;1.754385965
+1969;1160000;tonnes;Estimated;Egypt;Wheat;Production;Production;1.754385965
+1969;1160000;tonnes;Estimated;South Africa;Wheat;Production;Production;1.754385965
+1969;1160000;tonnes;Estimated;Nigeria;Wheat;Production;Production;1.754385965
+1970;1180000;tonnes;Official;Algeria;Wheat;Production;Production;1.724137931
+1970;1180000;tonnes;Official;Morocco;Wheat;Production;Production;1.724137931
+1970;1180000;tonnes;Official;Ghana;Wheat;Production;Production;1.724137931
+1970;1180000;tonnes;Official;Ethiopia;Wheat;Production;Production;1.724137931
+1970;1180000;tonnes;Official;Kenya;Wheat;Production;Production;1.724137931
+1970;1180000;tonnes;Official;Egypt;Wheat;Production;Production;1.724137931
+1970;1180000;tonnes;Official;South Africa;Wheat;Production;Production;1.724137931
+1970;1180000;tonnes;Official;Nigeria;Wheat;Production;Production;1.724137931
+1971;1200000;tonnes;Estimated;Algeria;Wheat;Production;Production;1.694915254
+1971;1200000;tonnes;Estimated;Morocco;Wheat;Production;Production;1.694915254
+1971;1200000;tonnes;Estimated;Ghana;Wheat;Production;Production;1.694915254
+1971;1200000;tonnes;Estimated;Ethiopia;Wheat;Production;Production;1.694915254
+1971;1200000;tonnes;Estimated;Kenya;Wheat;Production;Production;1.694915254
+1971;1200000;tonnes;Estimated;Egypt;Wheat;Production;Production;1.694915254
+1971;1200000;tonnes;Estimated;South Africa;Wheat;Production;Production;1.694915254
+1971;1200000;tonnes;Estimated;Nigeria;Wheat;Production;Production;1.694915254
+1972;1220000;tonnes;Official;Algeria;Wheat;Production;Production;1.666666667
+1972;1220000;tonnes;Official;Morocco;Wheat;Production;Production;1.666666667
+1972;1220000;tonnes;Official;Ghana;Wheat;Production;Production;1.666666667
+1972;1220000;tonnes;Official;Ethiopia;Wheat;Production;Production;1.666666667
+1972;1220000;tonnes;Official;Kenya;Wheat;Production;Production;1.666666667
+1972;1220000;tonnes;Official;Egypt;Wheat;Production;Production;1.666666667
+1972;1220000;tonnes;Official;South Africa;Wheat;Production;Production;1.666666667
+1972;1220000;tonnes;Official;Nigeria;Wheat;Production;Production;1.666666667
+1973;1240000;tonnes;Estimated;Algeria;Wheat;Production;Production;1.639344262
+1973;1240000;tonnes;Estimated;Morocco;Wheat;Production;Production;1.639344262
+1973;1240000;tonnes;Estimated;Ghana;Wheat;Production;Production;1.639344262
+1973;1240000;tonnes;Estimated;Ethiopia;Wheat;Production;Production;1.639344262
+1973;1240000;tonnes;Estimated;Kenya;Wheat;Production;Production;1.639344262
+1973;1240000;tonnes;Estimated;Egypt;Wheat;Production;Production;1.639344262
+1973;1240000;tonnes;Estimated;South Africa;Wheat;Production;Production;1.639344262
+1973;1240000;tonnes;Estimated;Nigeria;Wheat;Production;Production;1.639344262
+1974;1260000;tonnes;Official;Algeria;Wheat;Production;Production;1.612903226
+1974;1260000;tonnes;Official;Morocco;Wheat;Production;Production;1.612903226
+1974;1260000;tonnes;Official;Ghana;Wheat;Production;Production;1.612903226
+1974;1260000;tonnes;Official;Ethiopia;Wheat;Production;Production;1.612903226
+1974;1260000;tonnes;Official;Kenya;Wheat;Production;Production;1.612903226
+1974;1260000;tonnes;Official;Egypt;Wheat;Production;Production;1.612903226
+1974;1260000;tonnes;Official;South Africa;Wheat;Production;Production;1.612903226
+1974;1260000;tonnes;Official;Nigeria;Wheat;Production;Production;1.612903226
+1975;1280000;tonnes;Estimated;Algeria;Wheat;Production;Production;1.587301587
+1975;1280000;tonnes;Estimated;Morocco;Wheat;Production;Production;1.587301587
+1975;1280000;tonnes;Estimated;Ghana;Wheat;Production;Production;1.587301587
+1975;1280000;tonnes;Estimated;Ethiopia;Wheat;Production;Production;1.587301587
+1975;1280000;tonnes;Estimated;Kenya;Wheat;Production;Production;1.587301587
+1975;1280000;tonnes;Estimated;Egypt;Wheat;Production;Production;1.587301587
+1975;1280000;tonnes;Estimated;South Africa;Wheat;Production;Production;1.587301587
+1975;1280000;tonnes;Estimated;Nigeria;Wheat;Production;Production;1.587301587
+1976;1300000;tonnes;Official;Algeria;Wheat;Production;Production;1.5625
+1976;1300000;tonnes;Official;Morocco;Wheat;Production;Production;1.5625
+1976;1300000;tonnes;Official;Ghana;Wheat;Production;Production;1.5625
+1976;1300000;tonnes;Official;Ethiopia;Wheat;Production;Production;1.5625
+1976;1300000;tonnes;Official;Kenya;Wheat;Production;Production;1.5625
+1976;1300000;tonnes;Official;Egypt;Wheat;Production;Production;1.5625
+1976;1300000;tonnes;Official;South Africa;Wheat;Production;Production;1.5625
+1976;1300000;tonnes;Official;Nigeria;Wheat;Production;Production;1.5625
+1977;1320000;tonnes;Estimated;Algeria;Wheat;Production;Production;1.538461538
+1977;1320000;tonnes;Estimated;Morocco;Wheat;Production;Production;1.538461538
+1977;1320000;tonnes;Estimated;Ghana;Wheat;Production;Production;1.538461538
+1977;1320000;tonnes;Estimated;Ethiopia;Wheat;Production;Production;1.538461538
+1977;1320000;tonnes;Estimated;Kenya;Wheat;Production;Production;1.538461538
+1977;1320000;tonnes;Estimated;Egypt;Wheat;Production;Production;1.538461538
+1977;1320000;tonnes;Estimated;South Africa;Wheat;Production;Production;1.538461538
+1977;1320000;tonnes;Estimated;Nigeria;Wheat;Production;Production;1.538461538
+1978;1340000;tonnes;Official;Algeria;Wheat;Production;Production;1.515151515
+1978;1340000;tonnes;Official;Morocco;Wheat;Production;Production;1.515151515
+1978;1340000;tonnes;Official;Ghana;Wheat;Production;Production;1.515151515
+1978;1340000;tonnes;Official;Ethiopia;Wheat;Production;Production;1.515151515
+1978;1340000;tonnes;Official;Kenya;Wheat;Production;Production;1.515151515
+1978;1340000;tonnes;Official;Egypt;Wheat;Production;Production;1.515151515
+1978;1340000;tonnes;Official;South Africa;Wheat;Production;Production;1.515151515
+1978;1340000;tonnes;Official;Nigeria;Wheat;Production;Production;1.515151515
+1979;1359999;tonnes;Estimated;Algeria;Wheat;Production;Production;1.492462687
+1979;1359999;tonnes;Estimated;Morocco;Wheat;Production;Production;1.492462687
+1979;1359999;tonnes;Estimated;Ghana;Wheat;Production;Production;1.492462687
+1979;1359999;tonnes;Estimated;Ethiopia;Wheat;Production;Production;1.492462687
+1979;1359999;tonnes;Estimated;Kenya;Wheat;Production;Production;1.492462687
+1979;1359999;tonnes;Estimated;Egypt;Wheat;Production;Production;1.492462687
+1979;1359999;tonnes;Estimated;South Africa;Wheat;Production;Production;1.492462687
+1979;1359999;tonnes;Estimated;Nigeria;Wheat;Production;Production;1.492462687
+1980;1380000;tonnes;Official;Algeria;Wheat;Production;Production;1.470662846
+1980;1380000;tonnes;Official;Morocco;Wheat;Production;Production;1.470662846
+1980;1380000;tonnes;Official;Ghana;Wheat;Production;Production;1.470662846
+1980;1380000;tonnes;Official;Ethiopia;Wheat;Production;Production;1.470662846
+1980;1380000;tonnes;Official;Kenya;Wheat;Production;Production;1.470662846
+1980;1380000;tonnes;Official;Egypt;Wheat;Production;Production;1.470662846
+1980;1380000;tonnes;Official;South Africa;Wheat;Production;Production;1.470662846
+1980;1380000;tonnes;Official;Nigeria;Wheat;Production;Production;1.470662846
+1981;1400000;tonnes;Estimated;Algeria;Wheat;Production;Production;1.449275362
+1981;1400000;tonnes;Estimated;Morocco;Wheat;Production;Production;1.449275362
+1981;1400000;tonnes;Estimated;Ghana;Wheat;Production;Production;1.449275362
+1981;1400000;tonnes;Estimated;Ethiopia;Wheat;Production;Production;1.449275362
+1981;1400000;tonnes;Estimated;Kenya;Wheat;Production;Production;1.449275362
+1981;1400000;tonnes;Estimated;Egypt;Wheat;Production;Production;1.449275362
+1981;1400000;tonnes;Estimated;South Africa;Wheat;Production;Production;1.449275362
+1981;1400000;tonnes;Estimated;Nigeria;Wheat;Production;Production;1.449275362
+1982;1420000;tonnes;Official;Algeria;Wheat;Production;Production;1.428571429
+1982;1420000;tonnes;Official;Morocco;Wheat;Production;Production;1.428571429
+1982;1420000;tonnes;Official;Ghana;Wheat;Production;Production;1.428571429
+1982;1420000;tonnes;Official;Ethiopia;Wheat;Production;Production;1.428571429
+1982;1420000;tonnes;Official;Kenya;Wheat;Production;Production;1.428571429
+1982;1420000;tonnes;Official;Egypt;Wheat;Production;Production;1.428571429
+1982;1420000;tonnes;Official;South Africa;Wheat;Production;Production;1.428571429
+1982;1420000;tonnes;Official;Nigeria;Wheat;Production;Production;1.428571429
+1983;1440000;tonnes;Estimated;Algeria;Wheat;Production;Production;1.408450704
+1983;1440000;tonnes;Estimated;Morocco;Wheat;Production;Production;1.408450704
+1983;1440000;tonnes;Estimated;Ghana;Wheat;Production;Production;1.408450704
+1983;1440000;tonnes;Estimated;Ethiopia;Wheat;Production;Production;1.408450704
+1983;1440000;tonnes;Estimated;Kenya;Wheat;Production;Production;1.408450704
+1983;1440000;tonnes;Estimated;Egypt;Wheat;Production;Production;1.408450704
+1983;1440000;tonnes;Estimated;South Africa;Wheat;Production;Production;1.408450704
+1983;1440000;tonnes;Estimated;Nigeria;Wheat;Production;Production;1.408450704
+1984;1460000;tonnes;Official;Algeria;Wheat;Production;Production;1.388888889
+1984;1460000;tonnes;Official;Morocco;Wheat;Production;Production;1.388888889
+1984;1460000;tonnes;Official;Ghana;Wheat;Production;Production;1.388888889
+1984;1460000;tonnes;Official;Ethiopia;Wheat;Production;Production;1.388888889
+1984;1460000;tonnes;Official;Kenya;Wheat;Production;Production;1.388888889
+1984;1460000;tonnes;Official;Egypt;Wheat;Production;Production;1.388888889
+1984;1460000;tonnes;Official;South Africa;Wheat;Production;Production;1.388888889
+1984;1460000;tonnes;Official;Nigeria;Wheat;Production;Production;1.388888889
+1985;1480000;tonnes;Estimated;Algeria;Wheat;Production;Production;1.369863014
+1985;1480000;tonnes;Estimated;Morocco;Wheat;Production;Production;1.369863014
+1985;1480000;tonnes;Estimated;Ghana;Wheat;Production;Production;1.369863014
+1985;1480000;tonnes;Estimated;Ethiopia;Wheat;Production;Production;1.369863014
+1985;1480000;tonnes;Estimated;Kenya;Wheat;Production;Production;1.369863014
+1985;1480000;tonnes;Estimated;Egypt;Wheat;Production;Production;1.369863014
+1985;1480000;tonnes;Estimated;South Africa;Wheat;Production;Production;1.369863014
+1985;1480000;tonnes;Estimated;Nigeria;Wheat;Production;Production;1.369863014
+1986;1500000;tonnes;Official;Algeria;Wheat;Production;Production;1.351351351
+1986;1500000;tonnes;Official;Morocco;Wheat;Production;Production;1.351351351
+1986;1500000;tonnes;Official;Ghana;Wheat;Production;Production;1.351351351
+1986;1500000;tonnes;Official;Ethiopia;Wheat;Production;Production;1.351351351
+1986;1500000;tonnes;Official;Kenya;Wheat;Production;Production;1.351351351
+1986;1500000;tonnes;Official;Egypt;Wheat;Production;Production;1.351351351
+1986;1500000;tonnes;Official;South Africa;Wheat;Production;Production;1.351351351
+1986;1500000;tonnes;Official;Nigeria;Wheat;Production;Production;1.351351351
+1987;1520000;tonnes;Estimated;Algeria;Wheat;Production;Production;1.333333333
+1987;1520000;tonnes;Estimated;Morocco;Wheat;Production;Production;1.333333333
+1987;1520000;tonnes;Estimated;Ghana;Wheat;Production;Production;1.333333333
+1987;1520000;tonnes;Estimated;Ethiopia;Wheat;Production;Production;1.333333333
+1987;1520000;tonnes;Estimated;Kenya;Wheat;Production;Production;1.333333333
+1987;1520000;tonnes;Estimated;Egypt;Wheat;Production;Production;1.333333333
+1987;1520000;tonnes;Estimated;South Africa;Wheat;Production;Production;1.333333333
+1987;1520000;tonnes;Estimated;Nigeria;Wheat;Production;Production;1.333333333
+1988;1540000;tonnes;Official;Algeria;Wheat;Production;Production;1.315789474
+1988;1540000;tonnes;Official;Morocco;Wheat;Production;Production;1.315789474
+1988;1540000;tonnes;Official;Ghana;Wheat;Production;Production;1.315789474
+1988;1540000;tonnes;Official;Ethiopia;Wheat;Production;Production;1.315789474
+1988;1540000;tonnes;Official;Kenya;Wheat;Production;Production;1.315789474
+1988;1540000;tonnes;Official;Egypt;Wheat;Production;Production;1.315789474
+1988;1540000;tonnes;Official;South Africa;Wheat;Production;Production;1.315789474
+1988;1540000;tonnes;Official;Nigeria;Wheat;Production;Production;1.315789474
+1989;1560000;tonnes;Estimated;Algeria;Wheat;Production;Production;1.298701299
+1989;1560000;tonnes;Estimated;Morocco;Wheat;Production;Production;1.298701299
+1989;1560000;tonnes;Estimated;Ghana;Wheat;Production;Production;1.298701299
+1989;1560000;tonnes;Estimated;Ethiopia;Wheat;Production;Production;1.298701299
+1989;1560000;tonnes;Estimated;Kenya;Wheat;Production;Production;1.298701299
+1989;1560000;tonnes;Estimated;Egypt;Wheat;Production;Production;1.298701299
+1989;1560000;tonnes;Estimated;South Africa;Wheat;Production;Production;1.298701299
+1989;1560000;tonnes;Estimated;Nigeria;Wheat;Production;Production;1.298701299
+1990;1580000;tonnes;Official;Algeria;Wheat;Production;Production;1.282051282
+1990;1580000;tonnes;Official;Morocco;Wheat;Production;Production;1.282051282
+1990;1580000;tonnes;Official;Ghana;Wheat;Production;Production;1.282051282
+1990;1580000;tonnes;Official;Ethiopia;Wheat;Production;Production;1.282051282
+1990;1580000;tonnes;Official;Kenya;Wheat;Production;Production;1.282051282
+1990;1580000;tonnes;Official;Egypt;Wheat;Production;Production;1.282051282
+1990;1580000;tonnes;Official;South Africa;Wheat;Production;Production;1.282051282
+1990;1580000;tonnes;Official;Nigeria;Wheat;Production;Production;1.282051282
+1991;1600000;tonnes;Estimated;Algeria;Wheat;Production;Production;1.265822785
+1991;1600000;tonnes;Estimated;Morocco;Wheat;Production;Production;1.265822785
+1991;1600000;tonnes;Estimated;Ghana;Wheat;Production;Production;1.265822785
+1991;1600000;tonnes;Estimated;Ethiopia;Wheat;Production;Production;1.265822785
+1991;1600000;tonnes;Estimated;Kenya;Wheat;Production;Production;1.265822785
+1991;1600000;tonnes;Estimated;Egypt;Wheat;Production;Production;1.265822785
+1991;1600000;tonnes;Estimated;South Africa;Wheat;Production;Production;1.265822785
+1991;1600000;tonnes;Estimated;Nigeria;Wheat;Production;Production;1.265822785
+1992;1620000;tonnes;Official;Algeria;Wheat;Production;Production;1.25
+1992;1620000;tonnes;Official;Morocco;Wheat;Production;Production;1.25
+1992;1620000;tonnes;Official;Ghana;Wheat;Production;Production;1.25
+1992;1620000;tonnes;Official;Ethiopia;Wheat;Production;Production;1.25
+1992;1620000;tonnes;Official;Kenya;Wheat;Production;Production;1.25
+1992;1620000;tonnes;Official;Egypt;Wheat;Production;Production;1.25
+1992;1620000;tonnes;Official;South Africa;Wheat;Production;Production;1.25
+1992;1620000;tonnes;Official;Nigeria;Wheat;Production;Production;1.25
+1993;1640000;tonnes;Estimated;Algeria;Wheat;Production;Production;1.234567901
+1993;1640000;tonnes;Estimated;Morocco;Wheat;Production;Production;1.234567901
+1993;1640000;tonnes;Estimated;Ghana;Wheat;Production;Production;1.234567901
+1993;1640000;tonnes;Estimated;Ethiopia;Wheat;Production;Production;1.234567901
+1993;1640000;tonnes;Estimated;Kenya;Wheat;Production;Production;1.234567901
+1993;1640000;tonnes;Estimated;Egypt;Wheat;Production;Production;1.234567901
+1993;1640000;tonnes;Estimated;South Africa;Wheat;Production;Production;1.234567901
+1993;1640000;tonnes;Estimated;Nigeria;Wheat;Production;Production;1.234567901
+1994;1660000;tonnes;Official;Algeria;Wheat;Production;Production;1.219512195
+1994;1660000;tonnes;Official;Morocco;Wheat;Production;Production;1.219512195
+1994;1660000;tonnes;Official;Ghana;Wheat;Production;Production;1.219512195
+1994;1660000;tonnes;Official;Ethiopia;Wheat;Production;Production;1.219512195
+1994;1660000;tonnes;Official;Kenya;Wheat;Production;Production;1.219512195
+1994;1660000;tonnes;Official;Egypt;Wheat;Production;Production;1.219512195
+1994;1660000;tonnes;Official;South Africa;Wheat;Production;Production;1.219512195
+1994;1660000;tonnes;Official;Nigeria;Wheat;Production;Production;1.219512195
+1995;1680000;tonnes;Estimated;Algeria;Wheat;Production;Production;1.204819277
+1995;1680000;tonnes;Estimated;Morocco;Wheat;Production;Production;1.204819277
+1995;1680000;tonnes;Estimated;Ghana;Wheat;Production;Production;1.204819277
+1995;1680000;tonnes;Estimated;Ethiopia;Wheat;Production;Production;1.204819277
+1995;1680000;tonnes;Estimated;Kenya;Wheat;Production;Production;1.204819277
+1995;1680000;tonnes;Estimated;Egypt;Wheat;Production;Production;1.204819277
+1995;1680000;tonnes;Estimated;South Africa;Wheat;Production;Production;1.204819277
+1995;1680000;tonnes;Estimated;Nigeria;Wheat;Production;Production;1.204819277
+1996;1700000;tonnes;Official;Algeria;Wheat;Production;Production;1.19047619
+1996;1700000;tonnes;Official;Morocco;Wheat;Production;Production;1.19047619
+1996;1700000;tonnes;Official;Ghana;Wheat;Production;Production;1.19047619
+1996;1700000;tonnes;Official;Ethiopia;Wheat;Production;Production;1.19047619
+1996;1700000;tonnes;Official;Kenya;Wheat;Production;Production;1.19047619
+1996;1700000;tonnes;Official;Egypt;Wheat;Production;Production;1.19047619
+1996;1700000;tonnes;Official;South Africa;Wheat;Production;Production;1.19047619
+1996;1700000;tonnes;Official;Nigeria;Wheat;Production;Production;1.19047619
+1997;1720000;tonnes;Estimated;Algeria;Wheat;Production;Production;1.176470588
+1997;1720000;tonnes;Estimated;Morocco;Wheat;Production;Production;1.176470588
+1997;1720000;tonnes;Estimated;Ghana;Wheat;Production;Production;1.176470588
+1997;1720000;tonnes;Estimated;Ethiopia;Wheat;Production;Production;1.176470588
+1997;1720000;tonnes;Estimated;Kenya;Wheat;Production;Production;1.176470588
+1997;1720000;tonnes;Estimated;Egypt;Wheat;Production;Production;1.176470588
+1997;1720000;tonnes;Estimated;South Africa;Wheat;Production;Production;1.176470588
+1997;1720000;tonnes;Estimated;Nigeria;Wheat;Production;Production;1.176470588
+1998;1740000;tonnes;Official;Algeria;Wheat;Production;Production;1.162790698
+1998;1740000;tonnes;Official;Morocco;Wheat;Production;Production;1.162790698
+1998;1740000;tonnes;Official;Ghana;Wheat;Production;Production;1.162790698
+1998;1740000;tonnes;Official;Ethiopia;Wheat;Production;Production;1.162790698
+1998;1740000;tonnes;Official;Kenya;Wheat;Production;Production;1.162790698
+1998;1740000;tonnes;Official;Egypt;Wheat;Production;Production;1.162790698
+1998;1740000;tonnes;Official;South Africa;Wheat;Production;Production;1.162790698
+1998;1740000;tonnes;Official;Nigeria;Wheat;Production;Production;1.162790698
+1999;1760000;tonnes;Estimated;Algeria;Wheat;Production;Production;1.149425287
+1999;1760000;tonnes;Estimated;Morocco;Wheat;Production;Production;1.149425287
+1999;1760000;tonnes;Estimated;Ghana;Wheat;Production;Production;1.149425287
+1999;1760000;tonnes;Estimated;Ethiopia;Wheat;Production;Production;1.149425287
+1999;1760000;tonnes;Estimated;Kenya;Wheat;Production;Production;1.149425287
+1999;1760000;tonnes;Estimated;Egypt;Wheat;Production;Production;1.149425287
+1999;1760000;tonnes;Estimated;South Africa;Wheat;Production;Production;1.149425287
+1999;1760000;tonnes;Estimated;Nigeria;Wheat;Production;Production;1.149425287
+2000;1780000;tonnes;Official;Algeria;Wheat;Production;Production;1.136363636
+2000;1780000;tonnes;Official;Morocco;Wheat;Production;Production;1.136363636
+2000;1780000;tonnes;Official;Ghana;Wheat;Production;Production;1.136363636
+2000;1780000;tonnes;Official;Ethiopia;Wheat;Production;Production;1.136363636
+2000;1780000;tonnes;Official;Kenya;Wheat;Production;Production;1.136363636
+2000;1780000;tonnes;Official;Egypt;Wheat;Production;Production;1.136363636
+2000;1780000;tonnes;Official;South Africa;Wheat;Production;Production;1.136363636
+2000;1780000;tonnes;Official;Nigeria;Wheat;Production;Production;1.136363636
+2001;1800000;tonnes;Estimated;Algeria;Wheat;Production;Production;1.123595506
+2001;1800000;tonnes;Estimated;Morocco;Wheat;Production;Production;1.123595506
+2001;1800000;tonnes;Estimated;Ghana;Wheat;Production;Production;1.123595506
+2001;1800000;tonnes;Estimated;Ethiopia;Wheat;Production;Production;1.123595506
+2001;1800000;tonnes;Estimated;Kenya;Wheat;Production;Production;1.123595506
+2001;1800000;tonnes;Estimated;Egypt;Wheat;Production;Production;1.123595506
+2001;1800000;tonnes;Estimated;South Africa;Wheat;Production;Production;1.123595506
+2001;1800000;tonnes;Estimated;Nigeria;Wheat;Production;Production;1.123595506
+2002;1820000;tonnes;Official;Algeria;Wheat;Production;Production;1.111111111
+2002;1820000;tonnes;Official;Morocco;Wheat;Production;Production;1.111111111
+2002;1820000;tonnes;Official;Ghana;Wheat;Production;Production;1.111111111
+2002;1820000;tonnes;Official;Ethiopia;Wheat;Production;Production;1.111111111
+2002;1820000;tonnes;Official;Kenya;Wheat;Production;Production;1.111111111
+2002;1820000;tonnes;Official;Egypt;Wheat;Production;Production;1.111111111
+2002;1820000;tonnes;Official;South Africa;Wheat;Production;Production;1.111111111
+2002;1820000;tonnes;Official;Nigeria;Wheat;Production;Production;1.111111111
+2003;1839999;tonnes;Estimated;Algeria;Wheat;Production;Production;1.098846154
+2003;1839999;tonnes;Estimated;Morocco;Wheat;Production;Production;1.098846154
+2003;1839999;tonnes;Estimated;Ghana;Wheat;Production;Production;1.098846154
+2003;1839999;tonnes;Estimated;Ethiopia;Wheat;Production;Production;1.098846154
+2003;1839999;tonnes;Estimated;Kenya;Wheat;Production;Production;1.098846154
+2003;1839999;tonnes;Estimated;Egypt;Wheat;Production;Production;1.098846154
+2003;1839999;tonnes;Estimated;South Africa;Wheat;Production;Production;1.098846154
+2003;1839999;tonnes;Estimated;Nigeria;Wheat;Production;Production;1.098846154
+2004;1859999;tonnes;Official;Algeria;Wheat;Production;Production;1.086957112
+2004;1859999;tonnes;Official;Morocco;Wheat;Production;Production;1.086957112
+2004;1859999;tonnes;Official;Ghana;Wheat;Production;Production;1.086957112
+2004;1859999;tonnes;Official;Ethiopia;Wheat;Production;Production;1.086957112
+2004;1859999;tonnes;Official;Kenya;Wheat;Production;Production;1.086957112
+2004;1859999;tonnes;Official;Egypt;Wheat;Production;Production;1.086957112
+2004;1859999;tonnes;Official;South Africa;Wheat;Production;Production;1.086957112
+2004;1859999;tonnes;Official;Nigeria;Wheat;Production;Production;1.086957112
+2005;1880000;tonnes;Estimated;Algeria;Wheat;Production;Production;1.075323159
+2005;1880000;tonnes;Estimated;Morocco;Wheat;Production;Production;1.075323159
+2005;1880000;tonnes;Estimated;Ghana;Wheat;Production;Production;1.075323159
+2005;1880000;tonnes;Estimated;Ethiopia;Wheat;Production;Production;1.075323159
+2005;1880000;tonnes;Estimated;Kenya;Wheat;Production;Production;1.075323159
+2005;1880000;tonnes;Estimated;Egypt;Wheat;Production;Production;1.075323159
+2005;1880000;tonnes;Estimated;South Africa;Wheat;Production;Production;1.075323159
+2005;1880000;tonnes;Estimated;Nigeria;Wheat;Production;Production;1.075323159
+2006;1900000;tonnes;Official;Algeria;Wheat;Production;Production;1.063829787
+2006;1900000;tonnes;Official;Morocco;Wheat;Production;Production;1.063829787
+2006;1900000;tonnes;Official;Ghana;Wheat;Production;Production;1.063829787
+2006;1900000;tonnes;Official;Ethiopia;Wheat;Production;Production;1.063829787
+2006;1900000;tonnes;Official;Kenya;Wheat;Production;Production;1.063829787
+2006;1900000;tonnes;Official;Egypt;Wheat;Production;Production;1.063829787
+2006;1900000;tonnes;Official;South Africa;Wheat;Production;Production;1.063829787
+2006;1900000;tonnes;Official;Nigeria;Wheat;Production;Production;1.063829787
+2007;1920000;tonnes;Estimated;Algeria;Wheat;Production;Production;1.052631579
+2007;1920000;tonnes;Estimated;Morocco;Wheat;Production;Production;1.052631579
+2007;1920000;tonnes;Estimated;Ghana;Wheat;Production;Production;1.052631579
+2007;1920000;tonnes;Estimated;Ethiopia;Wheat;Production;Production;1.052631579
+2007;1920000;tonnes;Estimated;Kenya;Wheat;Production;Production;1.052631579
+2007;1920000;tonnes;Estimated;Egypt;Wheat;Production;Production;1.052631579
+2007;1920000;tonnes;Estimated;South Africa;Wheat;Production;Production;1.052631579
+2007;1920000;tonnes;Estimated;Nigeria;Wheat;Production;Production;1.052631579
+2008;1940000;tonnes;Official;Algeria;Wheat;Production;Production;1.041666667
+2008;1940000;tonnes;Official;Morocco;Wheat;Production;Production;1.041666667
+2008;1940000;tonnes;Official;Ghana;Wheat;Production;Production;1.041666667
+2008;1940000;tonnes;Official;Ethiopia;Wheat;Production;Production;1.041666667
+2008;1940000;tonnes;Official;Kenya;Wheat;Production;Production;1.041666667
+2008;1940000;tonnes;Official;Egypt;Wheat;Production;Production;1.041666667
+2008;1940000;tonnes;Official;South Africa;Wheat;Production;Production;1.041666667
+2008;1940000;tonnes;Official;Nigeria;Wheat;Production;Production;1.041666667
+2009;1960000;tonnes;Estimated;Algeria;Wheat;Production;Production;1.030927835
+2009;1960000;tonnes;Estimated;Morocco;Wheat;Production;Production;1.030927835
+2009;1960000;tonnes;Estimated;Ghana;Wheat;Production;Production;1.030927835
+2009;1960000;tonnes;Estimated;Ethiopia;Wheat;Production;Production;1.030927835
+2009;1960000;tonnes;Estimated;Kenya;Wheat;Production;Production;1.030927835
+2009;1960000;tonnes;Estimated;Egypt;Wheat;Production;Production;1.030927835
+2009;1960000;tonnes;Estimated;South Africa;Wheat;Production;Production;1.030927835
+2009;1960000;tonnes;Estimated;Nigeria;Wheat;Production;Production;1.030927835
+2010;1980000;tonnes;Official;Algeria;Wheat;Production;Production;1.020408163
+2010;1980000;tonnes;Official;Morocco;Wheat;Production;Production;1.020408163
+2010;1980000;tonnes;Official;Ghana;Wheat;Production;Production;1.020408163
+2010;1980000;tonnes;Official;Ethiopia;Wheat;Production;Production;1.020408163
+2010;1980000;tonnes;Official;Kenya;Wheat;Production;Production;1.020408163
+2010;1980000;tonnes;Official;Egypt;Wheat;Production;Production;1.020408163
+2010;1980000;tonnes;Official;South Africa;Wheat;Production;Production;1.020408163
+2010;1980000;tonnes;Official;Nigeria;Wheat;Production;Production;1.020408163
+2011;2000000;tonnes;Estimated;Algeria;Wheat;Production;Production;1.01010101
+2011;2000000;tonnes;Estimated;Morocco;Wheat;Production;Production;1.01010101
+2011;2000000;tonnes;Estimated;Ghana;Wheat;Production;Production;1.01010101
+2011;2000000;tonnes;Estimated;Ethiopia;Wheat;Production;Production;1.01010101
+2011;2000000;tonnes;Estimated;Kenya;Wheat;Production;Production;1.01010101
+2011;2000000;tonnes;Estimated;Egypt;Wheat;Production;Production;1.01010101
+2011;2000000;tonnes;Estimated;South Africa;Wheat;Production;Production;1.01010101
+2011;2000000;tonnes;Estimated;Nigeria;Wheat;Production;Production;1.01010101
+2012;2020000;tonnes;Official;Algeria;Wheat;Production;Production;1
+2012;2020000;tonnes;Official;Morocco;Wheat;Production;Production;1
+2012;2020000;tonnes;Official;Ghana;Wheat;Production;Production;1
+2012;2020000;tonnes;Official;Ethiopia;Wheat;Production;Production;1
+2012;2020000;tonnes;Official;Kenya;Wheat;Production;Production;1
+2012;2020000;tonnes;Official;Egypt;Wheat;Production;Production;1
+2012;2020000;tonnes;Official;South Africa;Wheat;Production;Production;1
+2012;2020000;tonnes;Official;Nigeria;Wheat;Production;Production;1
+2013;2040000;tonnes;Estimated;Algeria;Wheat;Production;Production;0.99009901
+2013;2040000;tonnes;Estimated;Morocco;Wheat;Production;Production;0.99009901
+2013;2040000;tonnes;Estimated;Ghana;Wheat;Production;Production;0.99009901
+2013;2040000;tonnes;Estimated;Ethiopia;Wheat;Production;Production;0.99009901
+2013;2040000;tonnes;Estimated;Kenya;Wheat;Production;Production;0.99009901
+2013;2040000;tonnes;Estimated;Egypt;Wheat;Production;Production;0.99009901
+2013;2040000;tonnes;Estimated;South Africa;Wheat;Production;Production;0.99009901
+2013;2040000;tonnes;Estimated;Nigeria;Wheat;Production;Production;0.99009901
+2014;2060000;tonnes;Official;Algeria;Wheat;Production;Production;0.980392157
+2014;2060000;tonnes;Official;Morocco;Wheat;Production;Production;0.980392157
+2014;2060000;tonnes;Official;Ghana;Wheat;Production;Production;0.980392157
+2014;2060000;tonnes;Official;Ethiopia;Wheat;Production;Production;0.980392157
+2014;2060000;tonnes;Official;Kenya;Wheat;Production;Production;0.980392157
+2014;2060000;tonnes;Official;Egypt;Wheat;Production;Production;0.980392157
+2014;2060000;tonnes;Official;South Africa;Wheat;Production;Production;0.980392157
+2014;2060000;tonnes;Official;Nigeria;Wheat;Production;Production;0.980392157
+2015;2080000;tonnes;Estimated;Algeria;Wheat;Production;Production;0.970873786
+2015;2080000;tonnes;Estimated;Morocco;Wheat;Production;Production;0.970873786
+2015;2080000;tonnes;Estimated;Ghana;Wheat;Production;Production;0.970873786
+2015;2080000;tonnes;Estimated;Ethiopia;Wheat;Production;Production;0.970873786
+2015;2080000;tonnes;Estimated;Kenya;Wheat;Production;Production;0.970873786
+2015;2080000;tonnes;Estimated;Egypt;Wheat;Production;Production;0.970873786
+2015;2080000;tonnes;Estimated;South Africa;Wheat;Production;Production;0.970873786
+2015;2080000;tonnes;Estimated;Nigeria;Wheat;Production;Production;0.970873786
+2016;2100000;tonnes;Official;Algeria;Wheat;Production;Production;0.961538462
+2016;2100000;tonnes;Official;Morocco;Wheat;Production;Production;0.961538462
+2016;2100000;tonnes;Official;Ghana;Wheat;Production;Production;0.961538462
+2016;2100000;tonnes;Official;Ethiopia;Wheat;Production;Production;0.961538462
+2016;2100000;tonnes;Official;Kenya;Wheat;Production;Production;0.961538462
+2016;2100000;tonnes;Official;Egypt;Wheat;Production;Production;0.961538462
+2016;2100000;tonnes;Official;South Africa;Wheat;Production;Production;0.961538462
+2016;2100000;tonnes;Official;Nigeria;Wheat;Production;Production;0.961538462
+2017;2120000;tonnes;Estimated;Algeria;Wheat;Production;Production;0.952380952
+2017;2120000;tonnes;Estimated;Morocco;Wheat;Production;Production;0.952380952
+2017;2120000;tonnes;Estimated;Ghana;Wheat;Production;Production;0.952380952
+2017;2120000;tonnes;Estimated;Ethiopia;Wheat;Production;Production;0.952380952
+2017;2120000;tonnes;Estimated;Kenya;Wheat;Production;Production;0.952380952
+2017;2120000;tonnes;Estimated;Egypt;Wheat;Production;Production;0.952380952
+2017;2120000;tonnes;Estimated;South Africa;Wheat;Production;Production;0.952380952
+2017;2120000;tonnes;Estimated;Nigeria;Wheat;Production;Production;0.952380952
+2018;2140000;tonnes;Official;Algeria;Wheat;Production;Production;0.943396226
+2018;2140000;tonnes;Official;Morocco;Wheat;Production;Production;0.943396226
+2018;2140000;tonnes;Official;Ghana;Wheat;Production;Production;0.943396226
+2018;2140000;tonnes;Official;Ethiopia;Wheat;Production;Production;0.943396226
+2018;2140000;tonnes;Official;Kenya;Wheat;Production;Production;0.943396226
+2018;2140000;tonnes;Official;Egypt;Wheat;Production;Production;0.943396226
+2018;2140000;tonnes;Official;South Africa;Wheat;Production;Production;0.943396226
+2018;2140000;tonnes;Official;Nigeria;Wheat;Production;Production;0.943396226
+2019;2160000;tonnes;Estimated;Algeria;Wheat;Production;Production;0.934579439
+2019;2160000;tonnes;Estimated;Morocco;Wheat;Production;Production;0.934579439
+2019;2160000;tonnes;Estimated;Ghana;Wheat;Production;Production;0.934579439
+2019;2160000;tonnes;Estimated;Ethiopia;Wheat;Production;Production;0.934579439
+2019;2160000;tonnes;Estimated;Kenya;Wheat;Production;Production;0.934579439
+2019;2160000;tonnes;Estimated;Egypt;Wheat;Production;Production;0.934579439
+2019;2160000;tonnes;Estimated;South Africa;Wheat;Production;Production;0.934579439
+2019;2160000;tonnes;Estimated;Nigeria;Wheat;Production;Production;0.934579439
+2020;2179999;tonnes;Official;Algeria;Wheat;Production;Production;0.92587963
+2020;2179999;tonnes;Official;Morocco;Wheat;Production;Production;0.92587963
+2020;2179999;tonnes;Official;Ghana;Wheat;Production;Production;0.92587963
+2020;2179999;tonnes;Official;Ethiopia;Wheat;Production;Production;0.92587963
+2020;2179999;tonnes;Official;Kenya;Wheat;Production;Production;0.92587963
+2020;2179999;tonnes;Official;Egypt;Wheat;Production;Production;0.92587963
+2020;2179999;tonnes;Official;South Africa;Wheat;Production;Production;0.92587963
+2020;2179999;tonnes;Official;Nigeria;Wheat;Production;Production;0.92587963
+2021;2200000;tonnes;Estimated;Algeria;Wheat;Production;Production;0.917477485
+2021;2200000;tonnes;Estimated;Morocco;Wheat;Production;Production;0.917477485
+2021;2200000;tonnes;Estimated;Ghana;Wheat;Production;Production;0.917477485
+2021;2200000;tonnes;Estimated;Ethiopia;Wheat;Production;Production;0.917477485
+2021;2200000;tonnes;Estimated;Kenya;Wheat;Production;Production;0.917477485
+2021;2200000;tonnes;Estimated;Egypt;Wheat;Production;Production;0.917477485
+2021;2200000;tonnes;Estimated;South Africa;Wheat;Production;Production;0.917477485
+2021;2200000;tonnes;Estimated;Nigeria;Wheat;Production;Production;0.917477485
+2022;2219999;tonnes;Official;Algeria;Wheat;Production;Production;0.909045455
+2022;2219999;tonnes;Official;Morocco;Wheat;Production;Production;0.909045455
+2022;2219999;tonnes;Official;Ghana;Wheat;Production;Production;0.909045455
+2022;2219999;tonnes;Official;Ethiopia;Wheat;Production;Production;0.909045455
+2022;2219999;tonnes;Official;Kenya;Wheat;Production;Production;0.909045455
+2022;2219999;tonnes;Official;Egypt;Wheat;Production;Production;0.909045455
+2022;2219999;tonnes;Official;South Africa;Wheat;Production;Production;0.909045455
+2022;2219999;tonnes;Official;Nigeria;Wheat;Production;Production;0.909045455
+2023;2240000;tonnes;Estimated;Algeria;Wheat;Production;Production;0.900946352
+2023;2240000;tonnes;Estimated;Morocco;Wheat;Production;Production;0.900946352
+2023;2240000;tonnes;Estimated;Ghana;Wheat;Production;Production;0.900946352
+2023;2240000;tonnes;Estimated;Ethiopia;Wheat;Production;Production;0.900946352
+2023;2240000;tonnes;Estimated;Kenya;Wheat;Production;Production;0.900946352
+2023;2240000;tonnes;Estimated;Egypt;Wheat;Production;Production;0.900946352
+2023;2240000;tonnes;Estimated;South Africa;Wheat;Production;Production;0.900946352
+2023;2240000;tonnes;Estimated;Nigeria;Wheat;Production;Production;0.900946352
+2024;2260000;tonnes;Official;Algeria;Wheat;Production;Production;0.892857143
+2024;2260000;tonnes;Official;Morocco;Wheat;Production;Production;0.892857143
+2024;2260000;tonnes;Official;Ghana;Wheat;Production;Production;0.892857143
+2024;2260000;tonnes;Official;Ethiopia;Wheat;Production;Production;0.892857143
+2024;2260000;tonnes;Official;Kenya;Wheat;Production;Production;0.892857143
+2024;2260000;tonnes;Official;Egypt;Wheat;Production;Production;0.892857143
+2024;2260000;tonnes;Official;South Africa;Wheat;Production;Production;0.892857143
+2024;2260000;tonnes;Official;Nigeria;Wheat;Production;Production;0.892857143
+2025;2280000;tonnes;Estimated;Algeria;Wheat;Production;Production;0.884955752
+2025;2280000;tonnes;Estimated;Morocco;Wheat;Production;Production;0.884955752
+2025;2280000;tonnes;Estimated;Ghana;Wheat;Production;Production;0.884955752
+2025;2280000;tonnes;Estimated;Ethiopia;Wheat;Production;Production;0.884955752
+2025;2280000;tonnes;Estimated;Kenya;Wheat;Production;Production;0.884955752
+2025;2280000;tonnes;Estimated;Egypt;Wheat;Production;Production;0.884955752
+2025;2280000;tonnes;Estimated;South Africa;Wheat;Production;Production;0.884955752
+2025;2280000;tonnes;Estimated;Nigeria;Wheat;Production;Production;0.884955752
